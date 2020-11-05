@@ -1,0 +1,127 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/leo/Desktop/Soc/Tutorial3/software/niosLab3/obj/default/runtime/sim/mentor
+Enioslab2
+Z1 w1600636136
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z5 8/home/leo/Desktop/Soc/Tutorial3/niosLab2/simulation/niosLab2.vhd
+Z6 F/home/leo/Desktop/Soc/Tutorial3/niosLab2/simulation/niosLab2.vhd
+l0
+L9
+VeECPmcTCYo2ak6XF>AmOX0
+!s100 kKX>PoHjg99f>^WNcC7U;3
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1600721105
+!i10b 1
+Z9 !s108 1600721105.000000
+Z10 !s90 -reportprogress|300|/home/leo/Desktop/Soc/Tutorial3/niosLab2/simulation/niosLab2.vhd|
+Z11 !s107 /home/leo/Desktop/Soc/Tutorial3/niosLab2/simulation/niosLab2.vhd|
+!i113 1
+Z12 tExplicit 1 CvgOpt 0
+Artl
+R2
+R3
+R4
+DEx4 work 8 nioslab2 0 22 eECPmcTCYo2ak6XF>AmOX0
+l350
+L18
+V@AB3SP2e5eVKBlGJZSgbf0
+!s100 Zf5P_hPQ:JZndl=0dmcRK0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Enioslab2_rst_controller
+R1
+R2
+R3
+R4
+R0
+Z13 8/home/leo/Desktop/Soc/Tutorial3/niosLab2/simulation/nioslab2_rst_controller.vhd
+Z14 F/home/leo/Desktop/Soc/Tutorial3/niosLab2/simulation/nioslab2_rst_controller.vhd
+l0
+L9
+VVD2^6mHWUzW[1kNYW;H^f2
+!s100 9_XcDnz>5[UQS067=MGh33
+R7
+32
+R8
+!i10b 1
+R9
+Z15 !s90 -reportprogress|300|/home/leo/Desktop/Soc/Tutorial3/niosLab2/simulation/nioslab2_rst_controller.vhd|
+Z16 !s107 /home/leo/Desktop/Soc/Tutorial3/niosLab2/simulation/nioslab2_rst_controller.vhd|
+!i113 1
+R12
+Artl
+R2
+R3
+R4
+DEx4 work 23 nioslab2_rst_controller 0 22 VD2^6mHWUzW[1kNYW;H^f2
+l142
+L75
+VAG0gkz0o^X1z0mhC6eDRc3
+!s100 AJL>fziGH8[3cozX^dM:O1
+R7
+32
+R8
+!i10b 1
+R9
+R15
+R16
+!i113 1
+R12
+Enioslab2_rst_controller_001
+R1
+R2
+R3
+R4
+R0
+Z17 8/home/leo/Desktop/Soc/Tutorial3/niosLab2/simulation/nioslab2_rst_controller_001.vhd
+Z18 F/home/leo/Desktop/Soc/Tutorial3/niosLab2/simulation/nioslab2_rst_controller_001.vhd
+l0
+L9
+VQ;daf8f1l<9h1n?4jC[S^1
+!s100 ;N0SM3SVVZFD[0FOd@9A41
+R7
+32
+R8
+!i10b 1
+R9
+Z19 !s90 -reportprogress|300|/home/leo/Desktop/Soc/Tutorial3/niosLab2/simulation/nioslab2_rst_controller_001.vhd|
+Z20 !s107 /home/leo/Desktop/Soc/Tutorial3/niosLab2/simulation/nioslab2_rst_controller_001.vhd|
+!i113 1
+R12
+Artl
+R2
+R3
+R4
+Z21 DEx4 work 27 nioslab2_rst_controller_001 0 22 Q;daf8f1l<9h1n?4jC[S^1
+l142
+L75
+Z22 VT1c3K0MDHW;4J[WoVj[d63
+Z23 !s100 D5iH1j?KO?m^ZJ84jPkfB2
+R7
+32
+R8
+!i10b 1
+R9
+R19
+R20
+!i113 1
+R12

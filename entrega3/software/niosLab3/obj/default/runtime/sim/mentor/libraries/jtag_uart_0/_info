@@ -1,0 +1,249 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/leo/Desktop/Soc/Tutorial3/software/niosLab3/obj/default/runtime/sim/mentor
+Enioslab2_jtag_uart_0
+Z1 w1600636137
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z4 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z7 DPx6 altera 25 altera_europa_support_lib 0 22 C0c:iN^HNdl8^07`ST5U^3
+R0
+Z8 8/home/leo/Desktop/Soc/Tutorial3/niosLab2/simulation/submodules/niosLab2_jtag_uart_0.vhd
+Z9 F/home/leo/Desktop/Soc/Tutorial3/niosLab2/simulation/submodules/niosLab2_jtag_uart_0.vhd
+l0
+L455
+Vb8@cQaXl@:HJ6PVTa@?IX3
+!s100 ISNjGaQ`eaSJ@K6SNGY982
+Z10 OV;C;10.5b;63
+32
+Z11 !s110 1600721105
+!i10b 1
+Z12 !s108 1600721105.000000
+Z13 !s90 -reportprogress|300|/home/leo/Desktop/Soc/Tutorial3/niosLab2/simulation/submodules/niosLab2_jtag_uart_0.vhd|-work|jtag_uart_0|
+Z14 !s107 /home/leo/Desktop/Soc/Tutorial3/niosLab2/simulation/submodules/niosLab2_jtag_uart_0.vhd|
+!i113 1
+Z15 o-work jtag_uart_0
+Z16 tExplicit 1 CvgOpt 0
+Aeuropa
+R2
+R3
+R4
+R5
+R6
+R7
+Z17 DEx4 work 20 nioslab2_jtag_uart_0 0 22 b8@cQaXl@:HJ6PVTa@?IX3
+l573
+L478
+Z18 VJ]DTKDRLB>hXQ5QhCI4j52
+Z19 !s100 6P3Ple9an20d`_f@2V<J_2
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Enioslab2_jtag_uart_0_scfifo_r
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R0
+R8
+R9
+l0
+L313
+VF1BQUX_2iKDk7KYL=fS7l1
+!s100 KmlQUl?[^Tgk`EUJJMKCK0
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Aeuropa
+R2
+R3
+R4
+R5
+R6
+R7
+Z20 DEx4 work 29 nioslab2_jtag_uart_0_scfifo_r 0 22 F1BQUX_2iKDk7KYL=fS7l1
+l381
+L332
+Z21 VfJCFjXk77IC0KMYn]j63V1
+Z22 !s100 QjG>9ngOMdG@QGH7<OZiZ2
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Enioslab2_jtag_uart_0_scfifo_w
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R0
+R8
+R9
+l0
+L95
+VXJ_S4Y_^V>l27V146JB>32
+!s100 n5iG4ok60QK<Lf4J1cO;C0
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Aeuropa
+R2
+R3
+R4
+R5
+R6
+R7
+Z23 DEx4 work 29 nioslab2_jtag_uart_0_scfifo_w 0 22 XJ_S4Y_^V>l27V146JB>32
+l162
+L113
+Z24 VSh@[W[D?<Hl>R5iloeFEO2
+Z25 !s100 >IeZgVzgRFl5ceJMKF^UT3
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Enioslab2_jtag_uart_0_sim_scfifo_r
+R1
+Z26 DPx9 altera_mf 20 altera_mf_components 0 22 gV:l9C^?PSb6]b5V?_jR@3
+R2
+R3
+R4
+R5
+R6
+R7
+R0
+R8
+R9
+l0
+L233
+Vj04_[lZMFcSD3I3XoJ;mV3
+!s100 cOmBXd04NQX:5GL3;A`:l0
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Aeuropa
+R26
+R2
+R3
+R4
+R5
+R6
+R7
+Z27 DEx4 work 33 nioslab2_jtag_uart_0_sim_scfifo_r 0 22 j04_[lZMFcSD3I3XoJ;mV3
+l257
+L249
+Z28 VkZNo1<fQ^E1DKenOM;K<g0
+Z29 !s100 :T?ON9mm`^U_5TlHE]TSY3
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Enioslab2_jtag_uart_0_sim_scfifo_w
+R1
+R26
+R2
+R3
+R4
+R5
+R6
+R7
+R0
+R8
+R9
+l0
+L32
+V4Hg8AlF]dBXSFZm:8`Q5b3
+!s100 liJ0oo:kmBJdY?nFc=0IG2
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Aeuropa
+R26
+R2
+R3
+R4
+R5
+R6
+R7
+Z30 DEx4 work 33 nioslab2_jtag_uart_0_sim_scfifo_w 0 22 4Hg8AlF]dBXSFZm:8`Q5b3
+l50
+L48
+Z31 V@QV0AJDD_>nl8BBVjCTTo1
+Z32 !s100 YX74h;i;3[G@1C]RLlj7S0
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16

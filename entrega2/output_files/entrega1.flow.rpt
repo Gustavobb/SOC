@@ -1,0 +1,141 @@
+Flow report for entrega1
+Fri Sep 18 10:51:01 2020
+Quartus Prime Version 18.1.0 Build 625 09/12/2018 SJ Standard Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Flow Summary
+  3. Flow Settings
+  4. Flow Non-Default Global Settings
+  5. Flow Elapsed Time
+  6. Flow OS Summary
+  7. Flow Log
+  8. Flow Messages
+  9. Flow Suppressed Messages
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2018  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel FPGA IP License Agreement, or other applicable license
+agreement, including, without limitation, that your use is for
+the sole purpose of programming logic devices manufactured by
+Intel and sold by Intel or its authorized distributors.  Please
+refer to the applicable agreement for further details.
+
+
+
++-----------------------------------------------------------------------------------+
+; Flow Summary                                                                      ;
++---------------------------------+-------------------------------------------------+
+; Flow Status                     ; Successful - Fri Sep 18 10:51:01 2020           ;
+; Quartus Prime Version           ; 18.1.0 Build 625 09/12/2018 SJ Standard Edition ;
+; Revision Name                   ; entrega1                                        ;
+; Top-level Entity Name           ; LAB2_FPGA_NIOS                                  ;
+; Family                          ; Cyclone V                                       ;
+; Device                          ; 5CSXFC6D6F31C6                                  ;
+; Timing Models                   ; Final                                           ;
+; Logic utilization (in ALMs)     ; 1,372 / 41,910 ( 3 % )                          ;
+; Total registers                 ; 2030                                            ;
+; Total pins                      ; 15 / 499 ( 3 % )                                ;
+; Total virtual pins              ; 0                                               ;
+; Total block memory bits         ; 1,983,744 / 5,662,720 ( 35 % )                  ;
+; Total DSP Blocks                ; 3 / 112 ( 3 % )                                 ;
+; Total HSSI RX PCSs              ; 0 / 9 ( 0 % )                                   ;
+; Total HSSI PMA RX Deserializers ; 0 / 9 ( 0 % )                                   ;
+; Total HSSI TX PCSs              ; 0 / 9 ( 0 % )                                   ;
+; Total HSSI PMA TX Serializers   ; 0 / 9 ( 0 % )                                   ;
+; Total PLLs                      ; 0 / 15 ( 0 % )                                  ;
+; Total DLLs                      ; 0 / 4 ( 0 % )                                   ;
++---------------------------------+-------------------------------------------------+
+
+
++-----------------------------------------+
+; Flow Settings                           ;
++-------------------+---------------------+
+; Option            ; Setting             ;
++-------------------+---------------------+
+; Start date & time ; 09/18/2020 10:43:18 ;
+; Main task         ; Compilation         ;
+; Revision Name     ; entrega1            ;
++-------------------+---------------------+
+
+
++----------------------------------------------------------------------------------------------------------------------------------------------------+
+; Flow Non-Default Global Settings                                                                                                                   ;
++-------------------------------------+------------------------------------------------------------+---------------+----------------+----------------+
+; Assignment Name                     ; Value                                                      ; Default Value ; Entity Name    ; Section Id     ;
++-------------------------------------+------------------------------------------------------------+---------------+----------------+----------------+
+; COMPILER_SIGNATURE_ID               ; 193866619680489.160043659708798                            ; --            ; --             ; --             ;
+; EDA_OUTPUT_DATA_FORMAT              ; Verilog Hdl                                                ; --            ; --             ; eda_simulation ;
+; EDA_SIMULATION_TOOL                 ; ModelSim-Altera (Verilog)                                  ; <None>        ; --             ; --             ;
+; EDA_TIME_SCALE                      ; 1 ps                                                       ; --            ; --             ; eda_simulation ;
+; MAX_CORE_JUNCTION_TEMP              ; 85                                                         ; --            ; --             ; --             ;
+; MIN_CORE_JUNCTION_TEMP              ; 0                                                          ; --            ; --             ; --             ;
+; MISC_FILE                           ; niosLab2/synthesis/../niosLab2.cmp                         ; --            ; --             ; --             ;
+; MISC_FILE                           ; niosLab2/synthesis/../../niosLab2.qsys                     ; --            ; --             ; --             ;
+; PARTITION_COLOR                     ; -- (Not supported for targeted family)                     ; --            ; LAB2_FPGA_NIOS ; Top            ;
+; PARTITION_FITTER_PRESERVATION_LEVEL ; -- (Not supported for targeted family)                     ; --            ; LAB2_FPGA_NIOS ; Top            ;
+; PARTITION_NETLIST_TYPE              ; -- (Not supported for targeted family)                     ; --            ; LAB2_FPGA_NIOS ; Top            ;
+; POWER_BOARD_THERMAL_MODEL           ; None (CONSERVATIVE)                                        ; --            ; --             ; --             ;
+; POWER_PRESET_COOLING_SOLUTION       ; 23 MM HEAT SINK WITH 200 LFPM AIRFLOW                      ; --            ; --             ; --             ;
+; PROJECT_OUTPUT_DIRECTORY            ; output_files                                               ; --            ; --             ; --             ;
+; SLD_FILE                            ; niosLab2/synthesis/niosLab2.regmap                         ; --            ; --             ; --             ;
+; SLD_FILE                            ; niosLab2/synthesis/niosLab2.debuginfo                      ; --            ; --             ; --             ;
+; SLD_INFO                            ; QSYS_NAME niosLab2 HAS_SOPCINFO 1 GENERATION_ID 1600436407 ; --            ; niosLab2       ; --             ;
+; SOPCINFO_FILE                       ; niosLab2/synthesis/../../niosLab2.sopcinfo                 ; --            ; --             ; --             ;
+; SYNTHESIS_ONLY_QIP                  ; On                                                         ; --            ; --             ; --             ;
+; TOP_LEVEL_ENTITY                    ; LAB2_FPGA_NIOS                                             ; entrega1      ; --             ; --             ;
++-------------------------------------+------------------------------------------------------------+---------------+----------------+----------------+
+
+
++--------------------------------------------------------------------------------------------------------------------------+
+; Flow Elapsed Time                                                                                                        ;
++----------------------+--------------+-------------------------+---------------------+------------------------------------+
+; Module Name          ; Elapsed Time ; Average Processors Used ; Peak Virtual Memory ; Total CPU Time (on all processors) ;
++----------------------+--------------+-------------------------+---------------------+------------------------------------+
+; Analysis & Synthesis ; 00:01:32     ; 1.0                     ; 1230 MB             ; 00:01:16                           ;
+; Fitter               ; 00:03:19     ; 1.1                     ; 2321 MB             ; 00:04:09                           ;
+; Assembler            ; 00:01:32     ; 1.0                     ; 1051 MB             ; 00:00:11                           ;
+; Timing Analyzer      ; 00:00:53     ; 1.6                     ; 1290 MB             ; 00:00:28                           ;
+; EDA Netlist Writer   ; 00:00:51     ; 1.0                     ; 1241 MB             ; 00:00:04                           ;
+; Total                ; 00:08:07     ; --                      ; --                  ; 00:06:08                           ;
++----------------------+--------------+-------------------------+---------------------+------------------------------------+
+
+
++----------------------------------------------------------------------------------------+
+; Flow OS Summary                                                                        ;
++----------------------+------------------+----------------+------------+----------------+
+; Module Name          ; Machine Hostname ; OS Name        ; OS Version ; Processor type ;
++----------------------+------------------+----------------+------------+----------------+
+; Analysis & Synthesis ; soc-ssd          ; Ubuntu 18.04.5 ; 18         ; x86_64         ;
+; Fitter               ; soc-ssd          ; Ubuntu 18.04.5 ; 18         ; x86_64         ;
+; Assembler            ; soc-ssd          ; Ubuntu 18.04.5 ; 18         ; x86_64         ;
+; Timing Analyzer      ; soc-ssd          ; Ubuntu 18.04.5 ; 18         ; x86_64         ;
+; EDA Netlist Writer   ; soc-ssd          ; Ubuntu 18.04.5 ; 18         ; x86_64         ;
++----------------------+------------------+----------------+------------+----------------+
+
+
+------------
+; Flow Log ;
+------------
+quartus_map --read_settings_files=on --write_settings_files=off entrega1 -c entrega1
+quartus_fit --read_settings_files=off --write_settings_files=off entrega1 -c entrega1
+quartus_asm --read_settings_files=off --write_settings_files=off entrega1 -c entrega1
+quartus_sta entrega1 -c entrega1
+quartus_eda --read_settings_files=off --write_settings_files=off entrega1 -c entrega1
+
+
+

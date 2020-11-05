@@ -1,0 +1,32 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/leo/Desktop/Soc/Tutorial3/software/niosLab3/obj/default/runtime/sim/mentor
+vniosLab2_nios2_gen2_0
+!s110 1600721105
+!i10b 1
+!s100 6ZH^d^nN9@mL93F8<U:e01
+I=X6b6zceMN>?KW<A=PWU40
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1600636137
+8/home/leo/Desktop/Soc/Tutorial3/niosLab2/simulation/submodules/niosLab2_nios2_gen2_0.v
+F/home/leo/Desktop/Soc/Tutorial3/niosLab2/simulation/submodules/niosLab2_nios2_gen2_0.v
+L0 9
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1600721105.000000
+!s107 /home/leo/Desktop/Soc/Tutorial3/niosLab2/simulation/submodules/niosLab2_nios2_gen2_0.v|
+!s90 -reportprogress|300|/home/leo/Desktop/Soc/Tutorial3/niosLab2/simulation/submodules/niosLab2_nios2_gen2_0.v|-work|nios2_gen2_0|
+!i113 1
+o-work nios2_gen2_0
+tCvgOpt 0
+nnios@lab2_nios2_gen2_0
