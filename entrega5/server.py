@@ -16,8 +16,11 @@ def main():
 
 @server.route('/button')
 def read_button():
-    result = {}
-    return render_template("button.html", result = result)
+    print("Py: Button")
+    sock.sendall(bytes("10\n", "utf-8"))
+    received = str(sock.recv(1024), "utf-8")
+    print("Py: {}".format(received))
+    return 1 if received else 0
 
 @server.route('/leds', methods = ['POST', 'GET'])
 def set_leds():
@@ -26,13 +29,13 @@ def set_leds():
     
     elif request.method == 'POST': 
         # leds
-        print("ppp")
-        return "post"
+        on = 0
+        if request.form.get('LED1') == 'on': on = 1
+
+        print('Py: Post led')
+        #print(on)
+        sock.sendall(bytes(str(on) + "\n", "utf-8"))
+        return render_template('leds.html')
     
 if __name__ == '__main__':
-    server.run()
-
-while 1:
-        sock.sendall(bytes('ola!' + "\n", "utf-8"))
-        received = str(sock.recv(1024), "utf-8")
-        print(received)
+    server.run(host='0.0.0.0', port=5000)
